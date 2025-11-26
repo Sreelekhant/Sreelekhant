@@ -1,11 +1,5 @@
-## Hi there 👋
 
-<!--
-**Sreelekhant/Sreelekhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Hi, I'm Sreelekha!
+### Hi, I'm Sreelekha!
 👩‍💻 Aspiring Data Scientist | Python | Machine Learning
 
 I’m passionate about turning data into meaningful insights and building real-world ML projects.

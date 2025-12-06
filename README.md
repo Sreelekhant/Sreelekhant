@@ -17,9 +17,6 @@ Concepts: EDA, Feature Engineering, Model Evaluation, Data Cleaning
 
 📂 Featured Projects
 
-🔹 
-• 
-
 🔹 Solar Energy Production – Regression
 • Predicting energy output using weather variable
 

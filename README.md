@@ -31,8 +31,6 @@ Feature Engineering
 
 Model Deployment
 
-Web3 basics
-
 🎯 Goals
 
 To become a strong Data Scientist and work with innovative startups.
